@@ -2,7 +2,7 @@
     "block.lever.click": {
         "sounds": [
             {
-                "name": "custom\/wrapped",
+                "name": "custom\/wrappedinmymemory",
                 "volume": 1.00
             }
         ]
@@ -10,6 +10,7 @@
     }
 
 }
+
 
 
 
